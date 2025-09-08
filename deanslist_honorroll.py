@@ -1,5 +1,5 @@
 # Noor Ramadan
-# File Name: deans_list_honor_roll.py
+# File Name: deanslist_honorroll.py
 # This program accepts student names and GPAs, then determines whether
 # each student qualifies for the Dean's List or the Honor Roll.
 # The program stops asking for input if the last name entered is 'ZZZ'.
